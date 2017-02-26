@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+	<file>PolygonMaskedImage.qml</file>
+	<file>PolygonMaskedImageWithBorder.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>kingfisher.jpg</file>
+	<file>owl.jpg</file>
+    </qresource>
+</RCC>
